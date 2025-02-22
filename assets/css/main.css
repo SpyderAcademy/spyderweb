@@ -26,14 +26,10 @@ body {
 }
 
 a {
-  color: var(--color-primary);
+  color: white;
   text-decoration: none;
 }
 
-a:hover {
-  color: #c777ec;
-  text-decoration: none;
-}
 
 h1,
 h2,
